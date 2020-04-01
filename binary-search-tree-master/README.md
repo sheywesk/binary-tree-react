@@ -1,0 +1,2 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aeeb56ac-edc1-4d05-8777-7b300cc529b2/deploy-status)](https://app.netlify.com/sites/binary-search-tree/deploys)
+[![GitHub license](https://img.shields.io/github/license/tomanagle/binary-search-tree.svg)](https://github.com/tomanagle/binary-search-tree/blob/master/LICENCE)
