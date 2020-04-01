@@ -5,4 +5,4 @@
   <li>Pesquisar elementos</li>
   <li>Caminhar com algoritmos de: pre-order, in-order, pos-order</li>
 </ul>
-![Captura de tela de 2020-04-01 14-40-50](https://user-images.githubusercontent.com/56653781/78169585-01724000-7428-11ea-9e58-a13cc62a8b74.png)
+![binarytree](https://user-images.githubusercontent.com/56653781/78170833-ed2f4280-7429-11ea-8c02-3680108d1c2f.png)
