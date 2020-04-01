@@ -5,4 +5,4 @@
   <li>Pesquisar elementos</li>
   <li>Caminhar com algoritmos de: pre-order, in-order, pos-order</li>
 </ul>
-![binarytree](https://user-images.githubusercontent.com/56653781/78170833-ed2f4280-7429-11ea-8c02-3680108d1c2f.png)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Q7dOx1qcG7k&feature=youtu.be)
